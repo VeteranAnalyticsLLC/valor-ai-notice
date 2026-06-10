@@ -17,13 +17,11 @@ The most important finding is this: their filing is not a vague "VALOR AI" grab.
 
 That is not a generic squatter spray. That reads like someone took my VALOR Intelligence Charter, the one that sat public on a code repository, with my architecture and mission described in my own words, and wrote it into a trademark application. The goods-and-services language mirrors a veteran-facing AI claims-assistance platform almost point for point. Whoever filed this knew exactly what my product does. They were watching… and probably still are. (Hi, hey. What's up?)
 
-So let me be clear about where this goes.
-
-I intend to pursue the VALOR AI mark. The IP Pirate filed on an intent-to-use basis, which means they are telling the United States government they have not actually used this mark in commerce. I have. I have a documented, time-stamped record of use of "VALOR AI" in commerce (public deployment of the named service on a live domain), as well as general counsel inquiries that predate their filing by more than a month. Under the Lanham Act, rights flow from use in commerce as defined at **15 U.S.C. § 1127**, and a mark cannot be registered where it is likely to be confused with a mark previously used in the United States and not abandoned (**15 U.S.C. § 1052(d)**). Priority is not a footrace to the filing window. It is a question of who actually used the mark, and when. I did, first.
-
 What the IP Pirate does not have, and cannot manufacture, is twenty years of veteran policy and hands-on adjudication experience, lived on both sides as customer and as analyst. You cannot "intent-to-file" your way into that.
 
 I am an attorney. This notice is my contemporaneous record that I am aware of this filing, that it post-dates my own public use, and that I regard it as bad-faith conduct. I am prepared to retain outside counsel to formalize the record and to pursue every remedy available to me. The IP Pirate should make sure their ducks are in a row.
+
+I won't be deterred by a Blue Falcon who would rather steal from a fellow veteran than support the community we serve. We're building something better for those who served. A new and improved platform is on its way.
 
 ---
 
